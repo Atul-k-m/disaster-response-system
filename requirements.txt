@@ -1,0 +1,9 @@
+Flask
+requests
+beautifulsoup4
+nltk
+transformers
+torch
+pandas
+pymongo
+kafka-python
